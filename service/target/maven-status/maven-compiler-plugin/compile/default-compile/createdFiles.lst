@@ -1,0 +1,4 @@
+com\template\entity\Sample.class
+com\template\api\SampleInterface.class
+com\template\entity\Sample$SampleBuilder.class
+com\template\service\ServiceApplication.class
